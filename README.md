@@ -1,2 +1,2 @@
 # DesafioJava
-Exercicios basicos java
+Exercicios  java utilizando desvio condicional simples
